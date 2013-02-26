@@ -3,7 +3,11 @@
 
 # EQUIPO
 
-    Pepe -- FrontEnd -- @pepe
+    Erik -- FrontEnd -- @elwerik
+    Jaime -- FrontEnd -- @jrodev
+    Jan -- FrontEnd -- @jansanchez
+    Andres -- FrontEnd -- @andru255
+    Brayan -- FrontEnd -- @brayan
 
 # GRACIAS
 
@@ -12,4 +16,5 @@
 # Tecnologías bases
 
     HTML5, CSS3
+    Modernizr
     jQuery
