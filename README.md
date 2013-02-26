@@ -1,3 +1,3 @@
 # [Initial](http://evangelizandolaweb.com)
 
-Estructura base para proyectos.
+Estructura base para proyectos web.
