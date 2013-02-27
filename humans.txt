@@ -1,20 +1,20 @@
 # humanstxt.org/
-# Equipo de desarrollo de EC
+# Equipo de Desarrollo Front-End EC
 
 # EQUIPO
 
-    Erik -- FrontEnd -- @elwerik
-    Jaime -- FrontEnd -- @jrodev
-    Jan -- FrontEnd -- @jansanchez
-    Andres -- FrontEnd -- @andru255
-    Brayan -- FrontEnd -- @brayan
+    Jan Sanchez     -- Front-End -- @jansanchez
+    Erik Flores     -- Front-End -- @elwerik
+    Andres Muñoz    -- Front-End -- @andru255
+    Jaime Rodriguez -- Front-End -- @jrodev
+    Brayan Borda    -- Front-End -- @brayanbp
 
 # GRACIAS
 
-    Maria
+    Orbis Ventures
 
 # Tecnologías bases
 
     HTML5, CSS3
-    Modernizr
     jQuery
+    yOSON.js
